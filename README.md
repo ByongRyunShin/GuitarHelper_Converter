@@ -1,1 +1,2 @@
-# GuitarHelper_Converter
+# GuitarHelper_Converter Based on TuxGuitar Source Code
+Developing..
